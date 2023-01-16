@@ -4,3 +4,5 @@ Hidden Layers: [96] | Batch Size: 1 | Learning Rate: 0.1 | Epoch: 1 | Time Taken
 
 Hidden Layers: [96, 10] | Batch Size: 1 | Learning Rate: 0.1 | Epoch: 1 | Time Taken (in s): 18.86387610435486 | Accuracy: 78.86000 %
 
+Hidden Layers: [96] | Batch Size: 1 | Learning Rate: 0.1 | Epoch: 1 | Time Taken (in s): 41.33607792854309 | Accuracy: 89.12000 %
+
