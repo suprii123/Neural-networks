@@ -1,0 +1,88 @@
+Hidden Layers: [96] | Batch Size: 1 | Learning Rate: 0.1 | Epoch: 1 | Time Taken (in s): 16.02774930000305 | Accuracy: 37.36000 %
+
+Hidden Layers: [96] | Batch Size: 1 | Learning Rate: 0.1 | Epoch: 2 | Time Taken (in s): 32.61359190940857 | Accuracy: 50.20000 %
+
+Hidden Layers: [96] | Batch Size: 1 | Learning Rate: 0.1 | Epoch: 3 | Time Taken (in s): 59.81585645675659 | Accuracy: 45.61000 %
+
+Hidden Layers: [96, 16] | Batch Size: 1 | Learning Rate: 0.1 | Epoch: 2 | Time Taken (in s): 40.021355390548706 | Accuracy: 57.70000 %
+
+Hidden Layers: [16, 32, 10] | Batch Size: 1 | Learning Rate: 0.1 | Epoch: 2 | Time Taken (in s): 28.956668853759766 | Accuracy: 22.74000 %
+
+Hidden Layers: [96] | Batch Size: 1 | Learning Rate: 0.01 | Epoch: 2 | Time Taken (in s): 35.77271389961243 | Accuracy: 71.28000 %
+
+Hidden Layers: [96] | Batch Size: 1 | Learning Rate: 0.001 | Epoch: 2 | Time Taken (in s): 34.90269899368286 | Accuracy: 72.00000 %
+
+Hidden Layers: [32, 32] | Batch Size: 1 | Learning Rate: 0.0001 | Epoch: 1 | Time Taken (in s): 13.868200302124023 | Accuracy: 15.74000 %
+
+Hidden Layers: [32, 32] | Batch Size: 1 | Learning Rate: 0.001 | Epoch: 1 | Time Taken (in s): 13.918757915496826 | Accuracy: 52.90000 %
+
+Hidden Layers: [16, 16, 16] | Batch Size: 1 | Learning Rate: 0.001 | Epoch: 1 | Time Taken (in s): 14.243040561676025 | Accuracy: 24.67000 %
+
+Hidden Layers: [96, 64, 32, 16] | Batch Size: 1 | Learning Rate: 0.001 | Epoch: 1 | Time Taken (in s): 25.674627780914307 | Accuracy: 36.69000 %
+
+Hidden Layers: [96, 64, 32, 16] | Batch Size: 1 | Learning Rate: 0.0001 | Epoch: 1 | Time Taken (in s): 25.440243005752563 | Accuracy: 19.48000 %
+
+Hidden Layers: [96, 64, 32, 16] | Batch Size: 1 | Learning Rate: 0.01 | Epoch: 1 | Time Taken (in s): 24.970908880233765 | Accuracy: 50.30000 %
+
+Hidden Layers: [96, 64, 32, 16] | Batch Size: 1 | Learning Rate: 0.1 | Epoch: 1 | Time Taken (in s): 26.48158597946167 | Accuracy: 45.79000 %
+
+Hidden Layers: [96, 64, 32, 16] | Batch Size: 1 | Learning Rate: 1 | Epoch: 1 | Time Taken (in s): 25.837612628936768 | Accuracy: 36.97000 %
+
+Hidden Layers: [96, 64, 32, 16] | Batch Size: 1 | Learning Rate: 0.01 | Epoch: 2 | Time Taken (in s): 51.447601556777954 | Accuracy: 41.13000 %
+
+Hidden Layers: [16, 32, 32, 16] | Batch Size: 1 | Learning Rate: 0.01 | Epoch: 2 | Time Taken (in s): 34.107776403427124 | Accuracy: 24.30000 %
+
+Hidden Layers: [16, 32, 32, 16] | Batch Size: 1 | Learning Rate: 0.1 | Epoch: 2 | Time Taken (in s): 34.66275119781494 | Accuracy: 24.78000 %
+
+Hidden Layers: [16, 32, 32, 16] | Batch Size: 1 | Learning Rate: 0.001 | Epoch: 2 | Time Taken (in s): 33.940147399902344 | Accuracy: 30.03000 %
+
+Hidden Layers: [16, 32, 16] | Batch Size: 1 | Learning Rate: 0.001 | Epoch: 1 | Time Taken (in s): 14.606213569641113 | Accuracy: 28.33000 %
+
+Hidden Layers: [16, 32, 16] | Batch Size: 1 | Learning Rate: 0.01 | Epoch: 1 | Time Taken (in s): 14.792857646942139 | Accuracy: 49.46000 %
+
+Hidden Layers: [16, 32, 16] | Batch Size: 1 | Learning Rate: 0.1 | Epoch: 1 | Time Taken (in s): 14.843395709991455 | Accuracy: 48.61000 %
+
+Hidden Layers: [64] | Batch Size: 1 | Learning Rate: 0.1 | Epoch: 1 | Time Taken (in s): 14.8181893825531 | Accuracy: 55.34000 %
+
+Hidden Layers: [96] | Batch Size: 1 | Learning Rate: 0.1 | Epoch: 1 | Time Taken (in s): 17.851223707199097 | Accuracy: 54.09000 %
+
+Hidden Layers: [64, 64] | Batch Size: 1 | Learning Rate: 0.1 | Epoch: 1 | Time Taken (in s): 17.767488718032837 | Accuracy: 47.39000 %
+
+Hidden Layers: [64, 64] | Batch Size: 1 | Learning Rate: 0.01 | Epoch: 1 | Time Taken (in s): 17.457932233810425 | Accuracy: 66.10000 %
+
+Hidden Layers: [64, 64] | Batch Size: 1 | Learning Rate: 0.001 | Epoch: 1 | Time Taken (in s): 17.44805335998535 | Accuracy: 65.06000 %
+
+Hidden Layers: [64, 64] | Batch Size: 1 | Learning Rate: 0.01 | Epoch: 2 | Time Taken (in s): 34.91896867752075 | Accuracy: 62.25000 %
+
+Hidden Layers: [64, 64, 64] | Batch Size: 1 | Learning Rate: 0.01 | Epoch: 2 | Time Taken (in s): 42.66627478599548 | Accuracy: 43.47000 %
+
+Hidden Layers: [64, 64] | Batch Size: 1 | Learning Rate: 0.1 | Epoch: 2 | Time Taken (in s): 36.22879219055176 | Accuracy: 57.03000 %
+
+Hidden Layers: [64, 64] | Batch Size: 1 | Learning Rate: 0.05 | Epoch: 2 | Time Taken (in s): 35.6641948223114 | Accuracy: 39.54000 %
+
+Hidden Layers: [64] | Batch Size: 1 | Learning Rate: 0.001 | Epoch: 2 | Time Taken (in s): 27.07655668258667 | Accuracy: 72.10000 %
+
+Hidden Layers: [64] | Batch Size: 1 | Learning Rate: 0.01 | Epoch: 2 | Time Taken (in s): 26.98983931541443 | Accuracy: 69.19000 %
+
+Hidden Layers: [50] | Batch Size: 1 | Learning Rate: 0.001 | Epoch: 2 | Time Taken (in s): 24.945558786392212 | Accuracy: 66.72000 %
+
+Hidden Layers: [80] | Batch Size: 1 | Learning Rate: 0.001 | Epoch: 2 | Time Taken (in s): 31.640642642974854 | Accuracy: 70.60000 %
+
+Hidden Layers: [128] | Batch Size: 1 | Learning Rate: 0.001 | Epoch: 2 | Time Taken (in s): 40.6814603805542 | Accuracy: 72.62000 %
+
+Hidden Layers: [128] | Batch Size: 1 | Learning Rate: 0.01 | Epoch: 2 | Time Taken (in s): 39.35459232330322 | Accuracy: 70.51000 %
+
+Hidden Layers: [128] | Batch Size: 1 | Learning Rate: 0.0001 | Epoch: 2 | Time Taken (in s): 50.710386753082275 | Accuracy: 50.97000 %
+
+Hidden Layers: [784, 10] | Batch Size: 1 | Learning Rate: 0.001 | Epoch: 1 | Time Taken (in s): 183.53646087646484 | Accuracy: 34.64000 %
+
+Hidden Layers: [784] | Batch Size: 1 | Learning Rate: 0.001 | Epoch: 1 | Time Taken (in s): 175.3800458908081 | Accuracy: 72.40000 %
+
+Hidden Layers: [784] | Batch Size: 100 | Learning Rate: 0.01 | Epoch: 2 | Time Taken (in s): 10.054714441299438 | Accuracy: 58.25000 %
+
+Hidden Layers: [784] | Batch Size: 10 | Learning Rate: 0.01 | Epoch: 2 | Time Taken (in s): 45.6053991317749 | Accuracy: 75.90000 %
+
+Hidden Layers: [784] | Batch Size: 10 | Learning Rate: 0.1 | Epoch: 2 | Time Taken (in s): 46.505590200424194 | Accuracy: 81.70000 %
+
+Hidden Layers: [784] | Batch Size: 1 | Learning Rate: 0.1 | Epoch: 2 | Time Taken (in s): 344.45126461982727 | Accuracy: 83.75000 %
+
